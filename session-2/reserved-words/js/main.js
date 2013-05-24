@@ -1,3 +1,16 @@
+
+var undefined = 6;
+
+console.log(undefined);
+
+//
+
+var NaN = 100;
+var myNum = 100;
+
+console.log(NaN);
+console.log(myNum);
+
 //var switch = 4; // this isn't okay
 
 var myObject = {
