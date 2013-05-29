@@ -6,3 +6,7 @@ console.log(animals);
 for(i = 0; i < animals.length; i++) {
 	console.log('Good night, ' + animals[i] + '.');
 }
+
+var numbers = [1, 2, 3, 4, 5];
+
+// square the numbers
