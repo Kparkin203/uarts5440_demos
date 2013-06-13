@@ -4,13 +4,13 @@ var valid;
 var _also_valid;
 
 // can't start with a number
-var 123nope;
+var Nope123;
 
 // either camel case or underscores. No spaces. 
 
 var veryGood;
 var very_good;
-var not good;
+var not_good;
 
 // descriptive but short as is practical. Tell what the data is or does
 

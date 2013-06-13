@@ -9,6 +9,6 @@ var myString = 'Hello, nurse!';
 console.log(myString);
 
 // booleans - true or "falsy"
-var myBool = true;
+var myBool;
 console.log(myBool);
 

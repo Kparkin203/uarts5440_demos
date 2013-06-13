@@ -1,5 +1,5 @@
 
-var undefined = 6;
+/*var undefined = 6;
 
 console.log(undefined);
 
@@ -12,11 +12,12 @@ console.log(NaN);
 console.log(myNum);
 
 //var switch = 4; // this isn't okay
-
+*/
 var myObject = {
 	"switch" : 4 // this is okay
 }
 
+console.log(myObject);
 
 /*
 
